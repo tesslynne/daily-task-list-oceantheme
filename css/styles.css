@@ -1,0 +1,46 @@
+body {
+	background: url('http://theartmad.com/wp-content/uploads/2015/09/Ocean-Water-Background-Tumblr-1.jpg')
+}
+h1 {
+	margin: 0 auto;
+	width: 300px;
+	text-align: center;
+	color: 	#708090;
+	font-family: "Vollkorn", Times, serif;
+	font-weight: 700;
+}
+.container {
+	border: 20px solid teal;
+	display: relative;
+	border-radius: 8px;
+	margin: 0 auto;
+	background-color: #F5F5F5;
+	opacity: .95;
+	filter: alpha(opacity=95);
+}
+
+form {
+    width: 300px;
+    margin: 0 auto;
+	padding-top: 50px;
+}
+
+input, button {
+	font-size: 20px;
+	text-align: center;
+	border-radius: 8px;
+	width: 300px;
+}
+
+button {
+	margin-top: 30px;
+}
+
+#toDo {
+	text-align: center;
+	font-family: "Vollkorn", Times, serif;
+	font-size: 18px;
+	list-style-position: inside;
+}
+
+
